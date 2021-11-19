@@ -1,1 +1,2 @@
-## Built with React
+## RoboFriends App
+Built with React
